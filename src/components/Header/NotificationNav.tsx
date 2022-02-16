@@ -5,7 +5,7 @@ export default function NotificationNav() {
   return (
     <Flex align="center" ml="auto">
       <HStack
-        spacing="8"
+        spacing={["4", "6"]}
         mx="8"
         pr="8"
         py="1"
